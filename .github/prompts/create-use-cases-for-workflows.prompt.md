@@ -77,7 +77,7 @@ Follow the use case template and guidelines from `.github/instructions/create-us
 
 - Create individual use case files for each workflow
 - Use naming convention: `use-case-<kebab-case-title>.md`
-- Store files in `Model/use-cases/` directory
+- Store files in `requirements/use-cases/` directory
 - One use case per file with inline Mermaid diagrams
 
 ### Actor Identification

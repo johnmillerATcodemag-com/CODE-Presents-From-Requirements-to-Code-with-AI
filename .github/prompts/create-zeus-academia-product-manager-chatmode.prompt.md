@@ -21,7 +21,7 @@ The Zeus Academia system is a comprehensive academic management platform for uni
 - Domain model defined in ORM format (`.github/requirements/orm/`)
 - Workflows documented (`.github/requirements/workflows.md`)
 - Use case templates established (`.github/instructions/create-use-case.instructions.md`)
-- Individual use cases created for each workflow in `Model/use-cases/`
+- Individual use cases created for each workflow in `requirements/use-cases/`
 
 ## Requirements
 
